@@ -4,3 +4,7 @@ gem 'bundler'
 gem 'jekyll'
 gem 'rack-jekyll'
 gem 'kramdown'
+
+group :development do
+	gem 'shotgun'
+end
